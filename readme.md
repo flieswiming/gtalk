@@ -24,3 +24,6 @@ gitalk:
   client_id: cdfffffffffffffffffffff
   client_secret: f4b55555555555555555555555555555
   [配置参考](https://keep-docs.xpoet.cn/usage-tutorial/configuration-guide.html#comment)
+<hr>
+### 遇到的坑
+https://umb.ink/2021/10/19/gitalk-403%E4%BB%A5%E5%8F%8AError-Validation-Failed%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/
